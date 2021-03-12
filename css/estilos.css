@@ -1,0 +1,33 @@
+a{
+    font-size: 17px;
+}
+
+@font-face{
+    font-family: nombre; src:url(/Fuentes/Valentime.otf);
+}
+
+h1{
+    font-family: nombre;
+    color: violet;
+}
+
+h2{
+    color: #DE9D8F;
+}
+
+div{
+    color: wheat;
+}
+
+ul{
+    color: wheat;
+}
+
+pre{
+    color: wheat;
+}
+
+img{
+    width: 170px;
+    float: left;
+}
